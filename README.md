@@ -4,7 +4,7 @@ Example web server in Python that runs on localhost
 
 ## How to use
 
-Configure the port in ```config.json``` (dedfault 8000), then open the ```server``` folder in a cmd and type ```python server.py```
+Configure the port in ```config.json``` (default 8000), then open the ```server``` folder in a cmd and type ```python server.py```
 
 You should automatically be brought to a website that shows some text
 
